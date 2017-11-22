@@ -14,7 +14,7 @@ Keith Forbes. "Calibration, Recognition, and Shape from Silhouettes of Stones". 
 
 Please email me with any comments or queries.
 
-Keith Forbes__
-22 Nov 2017__
-keith2000@gmail.com__
+Keith Forbes  
+22 Nov 2017  
+keith2000@gmail.com  
 
