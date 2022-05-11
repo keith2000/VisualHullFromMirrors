@@ -194,7 +194,10 @@ mxArray* VcalCamera::SetMatlabVar(   ) const
 	const char *field_names[] = {"efl", "u0", "v0", "kappa1", 
 		"pose", "width", "height", "serial"};
 	
-	int dims[2] = {1, 1 };
+	mwSize dims[2] = {1, 1 };
+
+	//const mwSize * dim = {1, 1};
+
 	mxArray* matCam = mxCreateStructArray(2, dims, 8, field_names);
 
 	mxArray *eflField = mxCreateDoubleMatrix(1,1,mxREAL);

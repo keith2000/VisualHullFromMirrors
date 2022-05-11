@@ -1052,7 +1052,7 @@ mxArray* SilhouetteSet::SetMatlabViewVec( ) const
 
 	const char *field_names[] = {"camera", "boundary"};
 
-	int dims[2];
+	mwSize dims[2];
 	dims[0] = 1;
 	dims[1] = viewVec.size();
 
