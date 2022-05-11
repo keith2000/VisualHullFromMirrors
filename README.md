@@ -3,7 +3,7 @@ Code associated with the paper "Keith Forbes, Fred Nicolls, Gerhard de Jager and
 
 I have updated the double mirror Matlab code to work on more recent versions of Matlab. No toolboxes required. Seems to still work on Matlab R2017b (Windows).
 
-Run MirrorDemo4 from the Matlab command line.
+Run **MirrorDemo4** from the Matlab command line.
 
 You can change the first few lines of MirrorDemo4.m to try different input image examples (jug, horse, locust).
 
@@ -17,4 +17,6 @@ Please email me with any comments or queries.
 Keith Forbes  
 22 Nov 2017  
 keith2000@gmail.com  
+
+2022-05-11 MirrorDemo4 runs successfully on both Windows and Linux
 
